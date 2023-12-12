@@ -1,3 +1,13 @@
+# Public Archive
+
+This project is currently Archived and not accepting contributions or issues. 
+Forking is permitted if you are interested in developing further. Please remember to attribute us as the source and abide by terms of the license.
+If the authors or maintainers have chosen to accept enquires, contact details will be provided in the README
+
+Open Source @ JPMorganChase
+
+----
+
 # How to contribute to JPMC projects
 
 We welcome your patches and enhancements to our projects. We have a few basic conditions for contributing below.
