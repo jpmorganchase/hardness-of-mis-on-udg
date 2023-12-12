@@ -16,3 +16,14 @@ This repository contains the code used to produce results in the paper "Hardness
 
 © 2023 Amazon Web Services, Inc.
 Developed as part of an engagement with JPMorgan Chase & Co. 
+
+----
+# Public Archive
+
+This project is currently Archived and not accepting contributions or issues. 
+Forking is permitted if you are interested in developing further. Please remember to attribute us as the source and abide by terms of the license.
+If the authors or maintainers have chosen to accept enquires, contact details will be provided in the README
+
+Open Source @ JPMorganChase
+
+----
