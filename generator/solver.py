@@ -71,7 +71,7 @@ def main(argv):
             neighbor_is_set = False
             for j in nn[i]:
                 if j >= i:
-                    break
+                    continue
                 if k[j - i] == "1":
                     neighbor_is_set = True
                     break
